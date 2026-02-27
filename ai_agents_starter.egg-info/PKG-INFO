@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ai-agents-starter
+Version: 0.1.0
+Requires-Python: >=3.11
+Requires-Dist: litellm>=1.40.0
+Requires-Dist: pydantic>=2.0
+Requires-Dist: pydantic-settings>=2.0
+Requires-Dist: python-dotenv>=1.0
+Requires-Dist: structlog>=24.0
+Requires-Dist: typer>=0.12.0
+Requires-Dist: beautifulsoup4>=4.12
+Requires-Dist: requests>=2.31
+Requires-Dist: tenacity>=8.0
