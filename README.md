@@ -237,6 +237,15 @@ This project was created to explore:
 - how modular AI systems can be designed
 
 ---
+## Technologies Used
+Example:
+
+- Python
+- OpenAI API
+- Multi-Agent Architecture
+- Prompt Engineering
+- Structured Reasoning Pipelines
+- Observability & Tracing
 
 ## Resources
 
